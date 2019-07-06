@@ -1,6 +1,6 @@
 # Перелік об'єктів комунальної власності
 
-![Перелік об'єктів комунальної власності](/raw/master/oms/opendata/02/dataset.png)
+![Перелік об'єктів комунальної власності](https://github.com/OpenData835/datasets/raw/master/oms/opendata/02/dataset.png)
 
 ## Створення бази даних
 
