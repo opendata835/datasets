@@ -1,10 +1,10 @@
-CREATE TABLE dataset.minjustEdrUO ( 
+CREATE TABLE opendata.minjustEdrUO ( 
 	id                   uuid DEFAULT gen_random_uuid() NOT NULL ,
 	name                 varchar(100)   ,
 	shortName            varchar(100)   ,
-	edrpou               smallint  NOT NULL ,
+	edrpou               integer  NOT NULL ,
 	address              varchar(100)   ,
-	pinxed               smallint   ,
+	pinxed               integer   ,
 	bossName             varchar(100)   ,
 	kvedFull             varchar(255)   ,
 	status               varchar(100)   ,

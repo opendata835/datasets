@@ -8,11 +8,12 @@
 
 * Postgresql
 
-Завжди використовуватися набір обов'язкових додаткових полів:
+    - Назва бази даних: opendata
+    - Завжди використовуватися набір обов'язкових додаткових полів:
 
-    - id (тип: uuid, дефолтне значення: "gen_random_uuid()")
-        - Потребуе встановленного пакету postgresql-contrib
-        - Потребуе реэстрації у базі данних "CREATE EXTENSION IF NOT EXISTS pgcrypto;"
+        - id (тип: uuid, дефолтне значення: "gen_random_uuid()")
+            - Потребуе встановленного пакету postgresql-contrib
+            - Потребуе реэстрації у базі данних "CREATE EXTENSION IF NOT EXISTS pgcrypto;"
 
 * Python
 
