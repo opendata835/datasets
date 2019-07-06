@@ -10,7 +10,8 @@ CREATE TABLE opendata.omsOD02object (
 	name                 varchar(255)   ,
 	area                 numeric(5,2)   ,
 	landАrea             numeric(5,2)   ,
-	CONSTRAINT Pk_defolt_id_2 PRIMARY KEY ( id )
+	CONSTRAINT Pk_defolt_id_2 PRIMARY KEY ( id ),
+	CONSTRAINT Fk_omsOD02object_minjustEdrUO FOREIGN KEY ( ownerId ) REFERENCES opendata.minjustEdrUO( id )  
  );
 
 COMMENT ON COLUMN opendata.omsOD02object.ownerId IS 'id у реестрі ЕДР';
