@@ -1,5 +1,3 @@
-CREATE SCHEMA opendata;
-
 CREATE TABLE opendata.omsOD02object ( 
 	id                   uuid DEFAULT gen_random_uuid() NOT NULL ,
 	ownerId              uuid   ,
