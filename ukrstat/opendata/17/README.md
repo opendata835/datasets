@@ -2,6 +2,8 @@
 
 ## Класифікатор об'єктів адміністративно-територіального устрою України (КОАТУУ)
 
+![Класифікатор об'єктів адміністративно-територіального устрою України (КОАТУУ)](https://github.com/OpenData835/datasets/raw/master/ukrstat/opendata/17/dataset.png)
+
 ## Імпорт опублікованого датасету
 
 - [Скрипт імпорту та нормалізації https://github.com/sokil/koatuu](https://github.com/sokil/koatuu)
