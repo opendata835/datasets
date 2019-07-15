@@ -1,5 +1,7 @@
 # Призначення репозитарію
 
+[![Join the chat at https://gitter.im/opendata835/datasets](https://badges.gitter.im/opendata835/datasets.svg)](https://gitter.im/opendata835/datasets?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Репозитарій має у собі набір дата сетів та інструменти для створення, обробки чинний опублікованих opendata або публічних реєстрів, доступних як за постановою 835, так й поза неї.
 
 ## Базовий стек
